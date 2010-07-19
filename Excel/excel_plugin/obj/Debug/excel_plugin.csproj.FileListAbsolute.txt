@@ -1,0 +1,24 @@
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\bin\Debug\excel_plugin.dll
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\bin\Debug\excel_plugin.pdb
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\bin\Debug\excel_plugin.dll.manifest
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\bin\Debug\excel_plugin.vsto
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\obj\Debug\ResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\obj\Debug\excel_plugin.Properties.Resources.resources
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\obj\Debug\GenerateResource.read.1.tlog
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\obj\Debug\GenerateResource.write.1.tlog
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\obj\Debug\excel_plugin.dll
+c:\users\chris\documents\visual studio 2010\Projects\excel_plugin\excel_plugin\obj\Debug\excel_plugin.pdb
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\bin\Debug\excel_plugin.dll
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\bin\Debug\excel_plugin.pdb
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\bin\Debug\excel_plugin.dll.manifest
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\bin\Debug\excel_plugin.vsto
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\obj\Debug\excel_plugin.Properties.Resources.resources
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\obj\Debug\excel_plugin.dll
+C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\obj\Debug\excel_plugin.pdb
