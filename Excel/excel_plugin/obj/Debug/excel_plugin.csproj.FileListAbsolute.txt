@@ -22,3 +22,4 @@ C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\obj\Debug\GenerateRe
 C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\obj\Debug\GenerateResource.write.1.tlog
 C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\obj\Debug\excel_plugin.dll
 C:\Users\Chris\Documents\printeco_office\Excel\excel_plugin\obj\Debug\excel_plugin.pdb
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\excel_plugin\excel_plugin\obj\Debug\excel_plugin.printeco_excel_usercontrol.resources

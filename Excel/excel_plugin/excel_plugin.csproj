@@ -130,6 +130,7 @@
   -->
   <ItemGroup>
     <Reference Include="Accessibility" />
+    <Reference Include="MySql.Data, Version=6.2.3.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -176,9 +177,18 @@
     can be found.
   -->
   <ItemGroup>
+    <Compile Include="printeco_excel_usercontrol.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="printeco_excel_usercontrol.Designer.cs">
+      <DependentUpon>printeco_excel_usercontrol.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
+    <EmbeddedResource Include="printeco_excel_usercontrol.resx">
+      <DependentUpon>printeco_excel_usercontrol.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
