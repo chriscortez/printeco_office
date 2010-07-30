@@ -9,6 +9,7 @@
 //------------------------------------------------------------------------------
 
 namespace excel_plugin.Properties {
+    using System;
     
     
     /// <summary>
@@ -56,6 +57,13 @@ namespace excel_plugin.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        internal static System.Drawing.Bitmap print_button {
+            get {
+                object obj = ResourceManager.GetObject("print_button", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }

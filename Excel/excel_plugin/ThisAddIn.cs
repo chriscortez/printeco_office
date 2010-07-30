@@ -28,7 +28,7 @@ namespace excel_plugin
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
             myUserControl = new printeco_excel_usercontrol();
-            myCustomTaskPane = this.CustomTaskPanes.Add(myUserControl, "My Task Pane");
+            myCustomTaskPane = this.CustomTaskPanes.Add(myUserControl, "PrintEco");
             myCustomTaskPane.DockPosition = Office.MsoCTPDockPosition.msoCTPDockPositionLeft;
 
             CheckIfMenuBarExists();
@@ -144,7 +144,6 @@ namespace excel_plugin
             
             // Do this if only the active worksheet needs to be be optimized
             initialNumPages = activeWorksheet.PageSetup.Pages.Count;
-            MessageBox.Show("Before optimization: " + initialNumPages + " pages");
 
             // Begin optimization...
             setMargins();
@@ -166,13 +165,26 @@ namespace excel_plugin
              **/
 
             finalNumPages = activeWorksheet.PageSetup.Pages.Count;
-            MessageBox.Show("After optimization: " + finalNumPages + " pages");
             //activeWorkbook.PrintPreview();
 
             //updateDatabase(initialNumPages, finalNumPages);
 
-            myCustomTaskPane.Visible = true;
-            myUserControl.updatePageCounts(initialNumPages, finalNumPages);
+            Excel.Window activeWindow = ((Excel.Window)Application.ActiveWindow);
+            
+            // TODO: handle freeze panes
+            if (!activeWindow.FreezePanes)
+            {
+                try
+                {
+                    activeWindow.View = Excel.XlWindowView.xlPageLayoutView;
+                }
+                catch (Exception e)
+                {
+                    MessageBox.Show(e.Message);
+                }
+                myCustomTaskPane.Visible = true;
+                myUserControl.updatePageCounts(initialNumPages, finalNumPages);
+            }
         }
 
 
@@ -206,7 +218,12 @@ namespace excel_plugin
             connection.Close();
         }
 
-
+        // Helper method for debugging
+        private void displayInfo()
+        {
+            MessageBox.Show("Before optimization: " + initialNumPages);
+            MessageBox.Show("After optimization: " + finalNumPages);
+        }
 
         // Manually set margins of page
         private void setMargins()
