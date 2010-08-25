@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <assemblyIdentity name="printeco_exceladdin, PublicKeyToken=47b542cc486dfc15" />
+  <loaderSettings generateLogFile="true" shadowCopyEnabled="true" privileges="user" configFileName="app.config" />
+</configuration>
