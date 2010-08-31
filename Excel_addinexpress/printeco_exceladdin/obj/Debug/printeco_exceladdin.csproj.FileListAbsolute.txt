@@ -10,3 +10,17 @@ c:\users\chris\documents\visual studio 2010\Projects\printeco_exceladdin\printec
 c:\users\chris\documents\visual studio 2010\Projects\printeco_exceladdin\printeco_exceladdin\obj\Debug\GenerateResource.write.1.tlog
 c:\users\chris\documents\visual studio 2010\Projects\printeco_exceladdin\printeco_exceladdin\obj\Debug\printeco_exceladdin.dll
 c:\users\chris\documents\visual studio 2010\Projects\printeco_exceladdin\printeco_exceladdin\obj\Debug\printeco_exceladdin.pdb
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\bin\Debug\printeco_exceladdin.dll
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\bin\Debug\printeco_exceladdin.pdb
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\bin\Debug\Office.dll
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\obj\Debug\printeco_exceladdin.AddinModule.resources
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\obj\Debug\printeco_exceladdin.dll
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\obj\Debug\printeco_exceladdin.pdb
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\obj\Debug\printeco_exceladdin.Properties.Resources.resources
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\obj\Debug\printeco_exceladdin.ecoPrintDialog.resources
+C:\Users\Chris\Documents\printeco_office\Excel_addinexpress\printeco_exceladdin\bin\Debug\printeco_exceladdin.tlb
